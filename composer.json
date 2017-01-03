@@ -1,0 +1,8 @@
+{
+  "name": "root/default",
+  "description": "Assignments",
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "5.5.*"
+  }
+}
